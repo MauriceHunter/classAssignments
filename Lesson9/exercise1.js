@@ -1,0 +1,14 @@
+let header = $("header");
+console.log(header);
+var sections = $('section');
+console.log(sections);
+var curSec = $('section.current');
+console.log(curSec);
+var nexSec = curSec.next('section');
+console.log(nexSec);
+var h2Node = curSec.prev('section').find('h2');
+console.log(h2Node);
+var divhigh = $('div').has('section>h2.highlight');
+console.log(divhigh);
+var toArr = sections.has('h2').toArray();
+console.log(toArr);

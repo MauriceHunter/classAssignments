@@ -1,0 +1,14 @@
+const head = document.querySelector('header');
+console.log(head);
+const sect = document.querySelectorAll('section');
+console.log(sect);
+const seccur = document.querySelector('section.current');
+console.log(seccur);
+const next = seccur.nextElementSibling;
+console.log(next);
+const bfr = seccur.previousElementSibling.querySelector('h2');
+console.log(bfr);
+const divv = document.querySelector('div.col');
+console.log(divv);
+const every = document.querySelectorAll('h2');
+console.log(every);
