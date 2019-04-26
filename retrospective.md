@@ -1,0 +1,2 @@
+## What i feel
+Doing this project i feel like i learned a lot about React and how to do things on a more technical level. I think i did well with checking on the status of the team. Making sure we all knew where we were with the project at all times. I'd say an improvment we needed was to all be working in sync so everybody was learning the same things at the same time. Our knowledge was divided and i felt like it would have been really beneficial to have everyone cooperatively learning.
